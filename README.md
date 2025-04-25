@@ -1,4 +1,4 @@
 # Financial Literacy Tutorial
 ## Team Members: Luna, Nirantheri, Isabel
 
-Our tutorial is going to be a financial literacy tutorial that teaches users about the value of different savings methods over time. Our goal is to hopefully help people understand the benefits and drawbacks of different types of savings accounts and select the best one for themselves. This will largely be aimed at younger people (age 18-24) who have the biggest potential for returns on long-term savings and compound interest. This tutorial is important because financial literacy is not high in younger age groups despite the fact that saving for retirement and high-cost items is incredibly important to start earlier, which is a huge part of financial literacy.  By learning about various savings accounts, their benefits, and potential drawbacks, you’ll be better equipped to select the best savings strategy for your personal financial future.
+This tutorial introduces students to essential concepts in personal finance and portfolio analysis through a computational and data-driven approach.
