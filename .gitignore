@@ -3,6 +3,7 @@
 /tutorial_files
 tutorial.html
 *.csv
+/reqs
 
 
 # Byte-compiled / optimized / DLL files
